@@ -48,6 +48,6 @@ Python, Excel, HTML/CSS,
 ---
 
 ## Contact
-- Email: [abdullahkhaskheli804@gmail.com](mailto:abdullahkhaskheli804@gmail.com)
+- [Email](mailto:abdullahkhaskheli804@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/abdullahkhaskheli)
 - [Github](https://github.com/abdullahkhaskheli)
