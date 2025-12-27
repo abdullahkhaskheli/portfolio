@@ -46,14 +46,14 @@ Python, Excel, HTML/CSS,
 
 ---
 
- ## #Academic Competitions
-#- I have not participated in any academic competitions in the past two years.  
+ ###Academic Competitions
+###- I have not participated in any academic competitions in the past two years.  
 
 ---
 
-# ## Talks & Workshops
-#- Participated in School Data Science & Business Analytics Workshop (_Month Year_)  
-#- Guest Lecture on Business Process Automation (_Month Year_)  
+###Talks & Workshops
+#-Participated in School Data Science & Business Analytics Workshop (_Month Year_)  
+#-Guest Lecture on Business Process Automation (_Month Year_)  
 
 ---
 
