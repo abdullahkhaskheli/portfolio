@@ -42,7 +42,7 @@ Python, Excel, HTML/CSS,
 ## Certificates
 - [Ehtical Hacker](https://github.com/abdullahkhaskheli/portfolio/blob/main/certificates/Ethical_Hacker_certificate.pdf)  
 - [AI And Career Empowerment](https://github.com/abdullahkhaskheli/portfolio/blob/main/certificates/University%20of%20Maryland%20Certificate%20of%20Completion%20-%20ai-and-career-empowerment.pdf)  
-- [Other relevant certificate links]
+- [Other relevant certificates](https://github.com/abdullahkhaskheli/portfolio/blob/main/certificates/Other%20Certifcates.pdf)
 
 ---
 
