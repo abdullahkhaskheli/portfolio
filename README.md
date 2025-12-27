@@ -27,6 +27,8 @@ Python, Excel, HTML/CSS,
 - Description: Developed a tool that takes long text from the user and generates a concise, accurate summary.  
 - Demo: [View Demo](https://abdullahkhaskheli.github.io/ai-note-summarizer/)  
 
+[EEG Band Discovery](https://github.com/abdullahkhaskheli/portfolio/blob/main/images/png.jpg)
+
 ### 2. [Web Recitation Player](https://abdullahkhaskheli.github.io/Quran-Web-Player/)
 - Language/Tools: HTML, CSS, JavaScript  
 - Description: Created a web player where users can select their favorite reciter and play specific verses or entire recitations.  
@@ -35,7 +37,7 @@ Python, Excel, HTML/CSS,
 ### 3. [Tic-Tac-Toe Game](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)
 - Language/Tools: JavaScript, HTML, CSS  
 - Description: Developed an interactive Tic-Tac-Toe game.  
-- [Demo](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)  
+- Demo:[View Demo](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)  
 
 ---
 
