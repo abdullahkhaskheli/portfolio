@@ -34,8 +34,8 @@ Python, Excel, HTML/CSS,
 
 ### 3. [Tic-Tac-Toe Game](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)
 - Language/Tools: JavaScript, HTML, CSS  
-- Description: Developed an interactive Tic-Tac-Toe game with a responsive web interface.  
-- Github: [](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)  
+- Description: Developed an interactive Tic-Tac-Toe game.  
+- [Demo](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)  
 
 ---
 
