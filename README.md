@@ -27,7 +27,6 @@ Python, Excel, HTML/CSS,
 - Description: Developed a tool that takes long text from the user and generates a concise, accurate summary.  
 - Demo: [View Demo](https://abdullahkhaskheli.github.io/ai-note-summarizer/)  
 
-#![EEG Band Discovery](https://github.com/abdullahkhaskheli/portfolio/blob/main/images/png.jpg)
 
 ### 2. [Web Recitation Player](https://abdullahkhaskheli.github.io/Quran-Web-Player/)
 - Language/Tools: HTML, CSS, JavaScript  
@@ -48,18 +47,7 @@ Python, Excel, HTML/CSS,
 
 ---
 
- #Academic Competitions
-#I have not participated in any academic competitions in the past two years.  
-
----
-
-#Talks & Workshops
-#Participated in School Data Science & Business Analytics Workshop (_Month Year_)  
-#Guest Lecture on Business Process Automation (_Month Year_)  
-
----
-
 ## Contact
-- Email: abdullahkhaskheli804@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/abdullahkhaskheli
-- GitHub: https://github.com/abdullahkhaskheli 
+- [Email]: abdullahkhaskheli804@gmail.com  
+- [Linkedin]: https://www.linkedin.com/in/abdullahkhaskheli
+- [GitHub]: https://github.com/abdullahkhaskheli 
