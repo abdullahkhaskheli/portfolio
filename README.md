@@ -1,8 +1,6 @@
 # Student
 
-# Student
-
-# Business Informatics Portfolio
+# Portfolio
 
 ---
 
