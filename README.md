@@ -10,22 +10,22 @@ Python, Java, SQL, Excel, Power BI, Git, HTML/CSS, Business Analytics, Data Mana
 ---
 
 ## Education
-- B.Sc., Business Informatics | Your School/College Name (_Expected: Month Year_)  
-- Relevant Coursework: Data Analysis, Database Management, Programming, Business Analytics, IT Management  
+- Higher Secondary School | Bise Sukkur (2025)  
+- Secondary School | Bise Sukkur (2023)
 
 ---
 
 ## Work Experience
 **Student / Project Developer (_Month Year - Present_)**  
-- Developed multiple projects in Python, Java, SQL, and Excel demonstrating business process automation and data analysis.  
-- Analyzed business datasets to generate actionable insights for decision-making processes.  
-- Applied programming and analytics skills to optimize small-scale business operations and reporting.
+- Independently built a basic AI text summarizer using HTML, CSS, and JavaScript.
+- Designed and developed a web-based music player from scratch.
+- Improved coding skills through hands-on self-learning projects.
 
 ---
 
 ## Projects
 ### 1. [AI Text Summarizer Tool](https://abdullahkhaskheli.github.io/ai-note-summarizer/)
-- Language/Tools: Python, NLP  
+- Language/Tools: Html, CSS, Javascript
 - Description: Developed a tool that takes long text from the user and generates a concise, accurate summary.  
 - Demo: [View Demo](https://abdullahkhaskheli.github.io/ai-note-summarizer/)  
 
@@ -34,10 +34,10 @@ Python, Java, SQL, Excel, Power BI, Git, HTML/CSS, Business Analytics, Data Mana
 - Description: Created a web player where users can select their favorite reciter and play specific verses or entire recitations.  
 - Demo: [View Demo](https://abdullahkhaskheli.github.io/Quran-Web-Player/)  
 
-### 3. [Tic-Tac-Toe Game](https://github.com/abdullahkhaskheli/Tic-Tac-Toe-)
+### 3. [Tic-Tac-Toe Game](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)
 - Language/Tools: JavaScript, HTML, CSS  
 - Description: Developed an interactive Tic-Tac-Toe game with a responsive web interface.  
-- Github: [](https://github.com/abdullahkhaskheli/Tic-Tac-Toe-)  
+- Github: [](https://youtu.be/F7Bo2VXtqfA?si=ZGOLhNAsJtiDzReU)  
 
 ---
 
