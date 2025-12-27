@@ -42,7 +42,7 @@ Python, Java, SQL, Excel, Power BI, Git, HTML/CSS, Business Analytics, Data Mana
 ---
 
 ## Certificates
-- [Ehtical Hacker](https://link-to-certificate.com)  
+- [Ehtical Hacker](https://bit.ly/3MVwIDR)  
 - [ABC Business Analytics Certificate](https://link-to-certificate.com)  
 - [Other relevant certificate links]
 
