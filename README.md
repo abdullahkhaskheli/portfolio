@@ -1,17 +1,15 @@
-# Student
-
 # Portfolio
 
 ---
 
 ## Technical Skills
-Python, Java, SQL, Excel, Power BI, Git, HTML/CSS, Business Analytics, Data Management
+Python, Excel, HTML/CSS,
 
 ---
 
 ## Education
 - Higher Secondary School | Bise Sukkur (2025)  
-- Secondary School | Bise Sukkur (2023)
+- Secondary School School | Bise Sukkur (2023)
 
 ---
 
@@ -42,8 +40,8 @@ Python, Java, SQL, Excel, Power BI, Git, HTML/CSS, Business Analytics, Data Mana
 ---
 
 ## Certificates
-- [Ehtical Hacker](https://bit.ly/3MVwIDR)  
-- [ABC Business Analytics Certificate](https://link-to-certificate.com)  
+- [Ehtical Hacker](https://github.com/abdullahkhaskheli/portfolio/blob/main/certificates/Ethical_Hacker_certificate.pdf)  
+- [AI And Career Empowerment](https://github.com/abdullahkhaskheli/portfolio/blob/main/certificates/University%20of%20Maryland%20Certificate%20of%20Completion%20-%20ai-and-career-empowerment.pdf)  
 - [Other relevant certificate links]
 
 ---
