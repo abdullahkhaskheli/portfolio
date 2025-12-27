@@ -8,7 +8,7 @@ Python, Excel, HTML/CSS,
 ---
 
 ## Education
-- Higher Secondary School | Bise Sukkur (2025)  
+- Higher Secondary School  | Bise Sukkur (2025)  
 - Secondary School School | Bise Sukkur (2023)
 
 ---
